@@ -1,9 +1,8 @@
 
 html{
     margin: 0;
-    background-image: url(https://i.scdn.co/image/ab67616d0000b273854b29c623bfaecc58770acf
-      );
-    background-color: black ;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5a6fe055d55b41a81fbdc267/1519748661771-UMI2E8VEB2RWKELO71IZ/Sunset-On-The-Square-San-Marcos-TX.jpg?format=1500w);
+    background-color: black;
     ;border: 10px;
     text-align: center;
     width: 100%;
@@ -21,7 +20,7 @@ html{
   }
   
   body{   margin: 0;
-    background-image: url(https://i.scdn.co/image/ab67616d0000b273854b29c623bfaecc58770acf
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5a6fe055d55b41a81fbdc267/1519748661771-UMI2E8VEB2RWKELO71IZ/Sunset-On-The-Square-San-Marcos-TX.jpg?format=1500w
     );
     background-size: cover;
     background-position: center;
