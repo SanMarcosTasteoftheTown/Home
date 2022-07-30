@@ -1,12 +1,7 @@
 
 html{
     margin: 0;
-    background-image: url(https://images.squarespace-cdn.com/content/v1/5a6fe055d55b41a81fbdc267/1519748661771-UMI2E8VEB2RWKELO71IZ/Sunset-On-The-Square-San-Marcos-TX.jpg?format=1500w);
-    background-color: black;
-    ;border: 10px;
-    text-align: center;
-    width: 100%;
-    opacity: .50;
+   
   
   }
   
@@ -28,7 +23,7 @@ html{
   background-color: #cccccc;
   padding: 10px;
   color: black;
-  opacity: .50;
+  opacity: .8;
   
   }
   
